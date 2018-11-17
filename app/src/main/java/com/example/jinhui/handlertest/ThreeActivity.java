@@ -15,6 +15,7 @@ import android.widget.TextView;
  * Created by jinhui on 2018/11/17.
  *
  * HandlerThread的使用,用于解决多线程并发的问题
+ * 子线程给主线程发送消息
  */
 public class ThreeActivity extends AppCompatActivity {
 
